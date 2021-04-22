@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "385126083749",
+    "project_id": "hellome-e8300",
+    "storage_bucket": "hellome-e8300.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385126083749:android:184e3aa5c0c0b27ec0314c",
+        "android_client_info": {
+          "package_name": "com.technion.android.hello_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385126083749-idoh6g1tav3vjvgjst84q7kpu0tk2p0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzxUhqKb7urnIjlylO2krBANXuBM6bnIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385126083749-idoh6g1tav3vjvgjst84q7kpu0tk2p0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
